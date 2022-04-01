@@ -2,7 +2,7 @@
 
 # Quantum Machine Learning and Information Processing
 
-This repository provides the source code of some analytical and numerical implementations of the PhD thesis *Quantum Machine Learning and Information Processing*.
+This repository provides the source code for some analytical and numerical implementations of the PhD thesis *Quantum Machine Learning and Information Processing*.
 
 Most of the code is written by the Wolfram Language in the form of [Mathematica notebook](PhD-Thesis.nb).
 <!-- , which can be also run online here.  -->
