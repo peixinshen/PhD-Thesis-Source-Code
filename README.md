@@ -32,12 +32,13 @@ This is the very initial version, detailed comments of the code will be updated 
 
 # References
 
-> <div id="refer-anchor-1"></div> 
-> 
-> [1] Z. Lu*, P.-X. Shen*, and D.-L. Deng, [Markovian Quantum Neuroevolution for Machine Learning](https://link.aps.org/doi/10.1103/PhysRevApplied.16.044039), Phys. Rev. Applied 16, 044039 (2021).
-> <div id="refer-anchor-2"></div>
-> 
-> [2] P.-X. Shen, S. Hoffman, and M. Trif, [Theory of Topological Spin Josephson Junctions](https://link.aps.org/doi/10.1103/PhysRevResearch.3.013003), Phys. Rev. Research 3, 013003 (2021).
+<div id="refer-anchor-1"></div> 
+
+[1] Z. Lu*, P.-X. Shen*, and D.-L. Deng, [Markovian Quantum Neuroevolution for Machine Learning](https://link.aps.org/doi/10.1103/PhysRevApplied.16.044039), Phys. Rev. Applied 16, 044039 (2021).
+
+<div id="refer-anchor-2"></div>
+
+[2] P.-X. Shen, S. Hoffman, and M. Trif, [Theory of Topological Spin Josephson Junctions](https://link.aps.org/doi/10.1103/PhysRevResearch.3.013003), Phys. Rev. Research 3, 013003 (2021).
 
 # License
 
