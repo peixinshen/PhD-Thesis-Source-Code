@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: Quantum Machine Learning and Information Processing
+message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+type: software
+authors:
+  - given-names: Pei-Xin
+    family-names: Shen
+    email: peixin.shen@outlook.com
+    affiliation: Tsinghua University
+    orcid: 'https://orcid.org/0000-0003-2761-5083'
+repository-code: 'https://github.com/peixinshen/PhD-Thesis-Source-Code'
+license: MIT
+version: v1.0.0
+date-released: '2022-05-20'
+# doi: 10.5281/zenodo.1234
+# preferred-citation:
+#   type: article
+#   authors:
+#   - given-names: Pei-Xin
+#     family-names: Shen
+#     email: peixin.shen@outlook.com
+#     affiliation: Tsinghua University
+#     orcid: 'https://orcid.org/0000-0003-2761-5083'
+#   - given-names: Silas
+#     family-names: Hoffman
+#     email: silas.hoffman@ufl.edu
+#     affiliation: University of Florida
+#     orcid: 'https://orcid.org/0000-0002-7381-7893'
+#   - given-names: Mircea
+#     family-names: Trif
+#     email: mtrif@magtop.ifpan.edu.pl
+#     affiliation: Polish Academy of Sciences
+#     orcid: 'https://orcid.org/0000-0002-1105-3277'
+#   doi: "10.1103/PhysRevResearch.3.013003"
+#   journal: "Physical Review Research"
+#   month: 1
+#   start: "013003"
+#   title: "Theory of topological spin Josephson junctions"
+#   issue: 1
+#   volume: 3
+#   year: 2021
