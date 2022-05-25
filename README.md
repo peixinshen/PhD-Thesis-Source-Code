@@ -2,6 +2,7 @@
 [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/13p40iO9O)
 [![Julia](https://img.shields.io/badge/Julia-1.7.2-9558B2?logo=julia)](https://julialang.org/)
 [![Python](https://img.shields.io/badge/Python-3.8.2-3776AB?logo=python)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6580092.svg)](https://doi.org/10.5281/zenodo.6580092)
 
 # Quantum Machine Learning and Information Processing
 
